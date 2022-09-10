@@ -10,7 +10,7 @@
   },
   "profiles": {
     "WebApplication1": {
-      "commandName": "Project",
+      "commandName": "Project20",
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
